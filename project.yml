@@ -1,0 +1,6 @@
+---
+name : pollen_tubes
+url : https://github.com/JIC-Image-Analysis/pollen_tubes.git
+version : 0.1.0
+container : jicscicomp/jicbioimage
+#command : python {{
